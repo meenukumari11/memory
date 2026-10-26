@@ -1,0 +1,41 @@
+body{
+    background-image: url(picnic.png);
+    background-color: white;
+    font-family:arial, sans-serif;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.poster{
+    width:400px;
+    margin:auto;
+    padding: 20px;
+}
+h1{
+    color: orange;
+    font-size: 60px;
+}
+h2{
+    color: skyblue;
+}
+h3{
+    color: orange;
+}
+ul{
+    display:inline;
+    text-align:center;
+}
+li{
+    color:black;
+}
+.date box{
+    background-color: burlywood;
+    color:white;
+    padding: 10px;
+}
+p{
+    color:black;
+    font-size:14px;
+}
+
